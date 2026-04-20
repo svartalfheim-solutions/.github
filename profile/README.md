@@ -1,8 +1,7 @@
 # Svartalfheim Solutions AS
-
-Nordic B2B SaaS integration platform built for 
-Scandinavian SMBs.
+Nordic software company building on a shared platform foundation.
 
 - 🌍 EU-hosted, GDPR-compliant
-- ⚡ Built on the Yggdrasil platform
+- ⚡ Powered by Yggdrasil — our internal platform foundation
+- 🏔️ Built in Norway
 - 🔗 [svartalfheim.no](https://svartalfheim.no)
